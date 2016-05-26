@@ -120,33 +120,4 @@ class Attack{
         return avail;
     }
 
-
-//    void getUniqueCh(String plainTxt){
-//        plainTxt=plainTxt.replaceAll(" ", "");
-//        int len=plainTxt.length();
-//        uniqueCh=new char[len];
-//        uniqueCh[0]=plainTxt.charAt(0);
-//        for (int i=0; i<len; i++){
-//            for (int j=0; j<uniqueCh.length; j++){
-//                if ()
-//            }
-//        }
-//    }
-//
-//   void findFrequency(String plainTxt){
-//
-//       int [] charCount=new int[len];
-//       double [] freq=new double[len];
-//
-//       for (int i=0; i<len; i++){
-//           for (int j=0; j<len; j++){
-//               if (plainTxt.charAt(j)==plainTxt.charAt(i)){
-//                   charCount[i]++;
-//               }
-//           }
-//           freq[i]=(double)charCount[i]/len;
-//           System.out.println(freq[i]);
-//       }
-//    }
-
 }
